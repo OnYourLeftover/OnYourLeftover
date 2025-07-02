@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I’m Yuri (a.k.a OnYourLeftover)
+- 🎓 Incoming CSE-AI Student @ IGDTUW
+- 💻 Learning Python, Git, DSA, and Machine Learning
+- 🔭 Working on cool beginner-friendly projects
 
 <!--
 **OnYourLeftover/OnYourLeftover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 she/her
 - ⚡ Fun fact: ...
 -->
