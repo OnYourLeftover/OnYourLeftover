@@ -1,9 +1,9 @@
-Hey, I’m Yuri (a.k.a OnYourLeftover)
-- 🎓 Incoming CSE-AI Student @ IGDTUW
+Hey, I’m Riya (a.k.a OnYourLeftover)
+- 🎓 CSE-AI Student @ IGDTUW
 - 💻 Learning Python, Git, DSA, and Machine Learning
 - 🔭 Working on cool beginner-friendly projects
 - 😄 Pronouns: she/her
-- 📫 Reach me here: will soon be available on linkedin until then on instagram: https://www.instagram.com/lalalala.ri/
+- 📫 Reach me here: (https://www.linkedin.com/in/riya-mahour-1209a4374)
 
 <!--
 **OnYourLeftover/OnYourLeftover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
