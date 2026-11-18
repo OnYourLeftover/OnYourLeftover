@@ -1,10 +1,14 @@
-Hey, I’m Riya (a.k.a OnYourLeftover)
-- 🎓 CSE-AI Student @ IGDTUW
-- 💻 Learning Python, Git, DSA, and Machine Learning
-- 🔭 Working on cool beginner-friendly projects
-- 😄 Pronouns: she/her
-- 📫 Reach me here: (https://www.linkedin.com/in/riya-mahour-1209a4374)
+# Hey, I'm Riya 👋
 
+I'm a CSE-AI student at IGDTUW who loves building things, exploring new technologies, and figuring out how things work.
+
+💻 Interested in software development, AI/ML & UI/UX.  
+🌱 Currently learning, experimenting, and building projects.  
+🎨 Outside tech, I love sketching and being creative.
+
+Always curious, always learning, occasionally debugging the same error for hours.
+
+**Let's build something cool!**
 <!--
 **OnYourLeftover/OnYourLeftover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
