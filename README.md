@@ -1,4 +1,4 @@
-# Hey, I'm Riya 👋
+# Hey, I'm Riyaa...
 
 I'm a CSE-AI student at IGDTUW who loves building things, exploring new technologies, and figuring out how things work.
 
